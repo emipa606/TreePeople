@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Tree People</name>
+  <author>Filthy Peasant</author>
+  <supportedVersions>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <packageId>FilthyPeasant.Races.TreePeople</packageId>
+  <description>Adds tree people into the game</description>
+</ModMetaData>

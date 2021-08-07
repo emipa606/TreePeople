@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--TraitDef>
+    <defName>StrongRoots</defName>
+    <commonality>0</commonality>
+    <degreeDatas>
+      <li>
+        <label>Strong Roots</label>
+        <description>NAME has strong roots. As a result, HE will move slower, but have more steady aim.</description>
+	    <statOffsets>
+			<AimingDelayFactor>-0.2</AimingDelayFactor>
+			<ShootingAccuracyPawn>+2</ShootingAccuracyPawn>
+			<MoveSpeed>-0.20</MoveSpeed>
+        </statOffsets>
+	  </li>
+    </degreeDatas>
+	<conflictingTraits>
+      <li>Brawler</li>
+	  <li>ShootingAccuracy</li>
+    </conflictingTraits>
+    <requiredWorkTags>
+      <li>Violent</li>
+    </requiredWorkTags>
+  </TraitDef-->
+</Defs>

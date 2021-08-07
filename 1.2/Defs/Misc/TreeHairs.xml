@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HairDef>
+    <defName>TreeHairBush</defName>
+    <label>bush</label>
+    <hairGender>Any</hairGender>
+    <texPath>Pawn/Humanlike/Hairs/Bush</texPath>
+    <hairTags>
+      <li>TreeHair</li>
+    </hairTags>
+  </HairDef>
+  <HairDef>
+    <defName>LeafFlowy</defName>
+    <label>flowy leaves</label>
+    <hairGender>Female</hairGender>
+    <texPath>Pawn/Humanlike/Hairs/LeafFlowy</texPath>
+    <hairTags>
+      <li>TreeHair</li>
+    </hairTags>
+  </HairDef>
+  <HairDef>
+    <defName>Leaftails</defName>
+    <label>leaftails</label>
+    <hairGender>Female</hairGender>
+    <texPath>Pawn/Humanlike/Hairs/Leaftails</texPath>
+    <hairTags>
+      <li>TreeHair</li>
+    </hairTags>
+  </HairDef>
+  <HairDef>
+    <defName>Tuft</defName>
+    <label>tuft</label>
+    <hairGender>MaleUsually</hairGender>
+    <texPath>Pawn/Humanlike/Hairs/Tuft</texPath>
+    <hairTags>
+      <li>TreeHair</li>
+    </hairTags>
+  </HairDef>
+  <HairDef>
+    <defName>LeafSenorita</defName>
+    <label>senorita leaves</label>
+    <hairGender>Female</hairGender>
+    <texPath>Pawn/Humanlike/Hairs/LeafSenorita</texPath>
+    <hairTags>
+      <li>TreeHair</li>
+    </hairTags>
+  </HairDef>
+  <HairDef>
+    <defName>LeafScorpionTail</defName>
+    <label>scorpion tail leaves</label>
+    <hairGender>Any</hairGender>
+    <texPath>Pawn/Humanlike/Hairs/LeafScorpiontail</texPath>
+    <hairTags>
+      <li>TreeHair</li>
+    </hairTags>
+  </HairDef>
+  <HairDef>
+    <defName>LeafBriefPonytail</defName>
+    <label>brief ponytail leaves</label>
+    <hairGender>Male</hairGender>
+    <texPath>Pawn/Humanlike/Hairs/LeafGaston</texPath>
+    <hairTags>
+      <li>TreeHair</li>
+    </hairTags>
+  </HairDef>
+  <HairDef>
+    <defName>LeafPrincess</defName>
+    <label>princess leaves</label>
+    <hairGender>Female</hairGender>
+    <texPath>Pawn/Humanlike/Hairs/LeafPrincess</texPath>
+    <hairTags>
+      <li>TreeHair</li>
+    </hairTags>
+  </HairDef>
+</Defs>
