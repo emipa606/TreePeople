@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>b389436e-8cda-4ee4-8b60-e2a0df473478</ID>
   <ModName>Tree People (Continued)</ModName>
-  <Version>1.0.0.0</Version>
+  <Version>1.0.1.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,7 +12,3 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-
-
