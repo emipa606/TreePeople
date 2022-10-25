@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--FactionDef Abstract="True" Name="TreeFactionBase">
+    <settlementTexturePath>World/WorldObjects/DefaultFactionBase</settlementTexturePath>
+    <colorSpectrum>
+      <li>(0, 0.737, 0.847)</li>
+    </colorSpectrum>
+  </FactionDef>
+  
+  <FactionDef ParentName="TreeFactionBase">
+    <defName>TreePlayerTribe</defName>
+    <label>Tree Tribe</label>
+    <description>Your own tribe.</description>
+    <isPlayer>true</isPlayer>
+    <pawnsPlural>colonists</pawnsPlural>
+    <basicMemberKind>PlayerTree</basicMemberKind>
+	<techLevel>Neolithic</techLevel>
+		<backstoryCategories>
+			<li>Tribal</li>
+		</backstoryCategories>
+	<playerInitialSettlementNameMaker>NamerInitialSettlementColony</playerInitialSettlementNameMaker>
+	<expandingIconTexture>World/WorldObjects/Expanding/Village</expandingIconTexture>
+	<settlementTexturePath>World/WorldObjects/TribalSettlement</settlementTexturePath>
+	<pawnNameMaker>NamerPersonTribal</pawnNameMaker>
+	<settlementNameMaker>NamerSettlementTribal</settlementNameMaker>
+	<factionNameMaker>NamerFactionTribal</factionNameMaker>
+	<geneticVariance>1</geneticVariance>
+	<startingResearchTags>
+      <li>TribalStart</li>
+    </startingResearchTags>
+    <hairTags>
+      <li>TreeHair</li>
+    </hairTags>
+    </FactionDef-->
+</Defs>
