@@ -41,3 +41,4 @@ B18 EPOE Patch https://steamcommunity.com/sharedfiles/filedetails/?id=1406741164
 
 
 
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2568676212]Last updated 2023-01-09
